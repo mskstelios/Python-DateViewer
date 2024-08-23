@@ -7,7 +7,6 @@
     <ul>
         <li><strong>Date Input:</strong> Enter a date in DD-MM-YY or DD/MM/YY format.</li>
         <li><strong>Day Display:</strong> View the day of the week corresponding to the entered date.</li>
-        <li><strong>Custom Icon:</strong> A custom icon is used for the application window.</li>
     </ul>
 
   <h2>Installation</h2>
