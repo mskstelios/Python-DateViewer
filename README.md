@@ -24,7 +24,7 @@
         </li>
         <li><strong>Run the Application:</strong>
             Run the application by executing the following command:
-            <pre><code>python day_viewer.py</code></pre>
+            <pre><code>python date_viewer.py</code></pre>
         </li>
     </ol>
 
